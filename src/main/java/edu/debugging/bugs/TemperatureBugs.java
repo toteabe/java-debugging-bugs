@@ -1,19 +1,19 @@
 package edu.debugging.bugs;
 
 /**
- * Programa de práctica de depuración.
+ * Debugging practice program.
  *
- * El programa analiza las temperaturas de una semana:
- * - Temperatura media.
- * - Temperatura máxima.
- * - Día de la temperatura máxima.
- * - Temperatura mínima.
- * - Número de días con temperatura bajo cero o igual a cero.
- * - Número de días con temperatura mayor o igual que 10 grados.
+ * The program analyzes the temperatures of one week:
+ * - Average temperature.
+ * - Maximum temperature.
+ * - Day of the maximum temperature.
+ * - Minimum temperature.
+ * - Number of days with a temperature below zero or equal to zero.
+ * - Number of days with a temperature greater than or equal to 10 degrees.
  *
- * Los días se muestran empezando en 1, no en 0.
+ * Days are displayed starting from 1, not from 0.
  *
- * Este programa contiene errores intencionados.
+ * This program contains intentional errors.
  */
 public class TemperatureBugs {
 

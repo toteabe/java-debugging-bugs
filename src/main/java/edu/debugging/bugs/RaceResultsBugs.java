@@ -1,18 +1,18 @@
 package edu.debugging.bugs;
 
 /**
- * Programa de práctica de depuración.
+ * Debugging practice program.
  *
- * El programa analiza los tiempos de varios corredores:
- * - Nombre del ganador.
- * - Tiempo del ganador.
- * - Tiempo medio.
- * - Número de corredores que han terminado en menos de 60 minutos.
- * - Número de corredores descalificados.
+ * The program analyzes the times of several runners:
+ * - Name of the winner.
+ * - Winner's time.
+ * - Average time.
+ * - Number of runners who finished in under 60 minutes.
+ * - Number of disqualified runners.
  *
- * Un corredor está descalificado si su tiempo es menor o igual que 0.
+ * A runner is disqualified if their time is less than or equal to 0.
  *
- * Este programa contiene errores intencionados.
+ * This program contains intentional errors.
  */
 public class RaceResultsBugs {
 

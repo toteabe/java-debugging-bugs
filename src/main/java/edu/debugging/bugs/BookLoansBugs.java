@@ -1,18 +1,18 @@
 package edu.debugging.bugs;
 
 /**
- * Programa de práctica de depuración.
+ * Debugging practice program.
  *
- * El programa calcula multas por retraso en la devolución de libros.
- * Reglas:
- * - Si un libro no tiene retraso, la multa es 0 €.
- * - Cada día de retraso cuesta 0,25 €.
- * - Si el libro tiene más de 500 páginas y hay retraso, se añade una penalización fija de 2 €.
- * - Se debe mostrar la multa de cada préstamo.
- * - Se debe mostrar el total recaudado.
- * - Se debe contar cuántos libros tienen retraso.
+ * The program calculates fines for the late return of books.
+ * Rules:
+ * - If a book is not overdue, the fine is €0.
+ * - Each day overdue costs €0.25.
+ * - If the book has more than 500 pages and is overdue, a fixed penalty of €2 is added.
+ * - The fine for each loan must be displayed.
+ * - The total amount collected must be displayed.
+ * - The number of overdue books must be counted.
  *
- * Este programa contiene errores intencionados.
+ * This program contains intentional errors.
  */
 public class BookLoansBugs {
 

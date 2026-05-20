@@ -1,16 +1,16 @@
 package edu.debugging.bugs;
 
 /**
- * Programa de práctica de depuración.
+ * Debugging practice program.
  *
- * El programa debe calcular el total de un carrito:
- * - El subtotal se calcula multiplicando precio por unidades.
- * - Si el subtotal es mayor o igual que 100 €, se aplica un 10 % de descuento.
- * - Si el subtotal es menor que 50 €, se añaden 4,99 € de gastos de envío.
- * - El IVA es del 21 % y se aplica después del descuento y los gastos de envío.
- * - El total final debe incluir subtotal, descuento, envío e IVA.
+ * The program must calculate the total of a shopping cart:
+ * - The subtotal is calculated by multiplying price by units.
+ * - If the subtotal is greater than or equal to €100, a 10% discount is applied.
+ * - If the subtotal is less than €50, €4.99 shipping costs are added.
+ * - VAT is 21% and is applied after the discount and shipping costs.
+ * - The final total must include subtotal, discount, shipping, and VAT.
  *
- * Este programa contiene errores intencionados.
+ * This program contains intentional errors.
  */
 public class ShoppingCartBugs {
 

@@ -1,16 +1,16 @@
 package edu.debugging.bugs;
 
 /**
- * Programa de práctica de depuración.
+ * Debugging practice program.
  *
- * Una contraseña es válida si cumple todas estas condiciones:
- * - Tiene al menos 8 caracteres.
- * - Contiene al menos una letra mayúscula.
- * - Contiene al menos una letra minúscula.
- * - Contiene al menos un dígito.
- * - Contiene al menos un carácter especial: !, ?, @, #, $ o %.
+ * A password is valid if it meets all these conditions:
+ * - It has at least 8 characters.
+ * - It contains at least one uppercase letter.
+ * - It contains at least one lowercase letter.
+ * - It contains at least one digit.
+ * - It contains at least one special character: !, ?, @, #, $ or %.
  *
- * Este programa contiene errores intencionados.
+ * This program contains intentional errors.
  */
 public class PasswordValidatorBugs {
 

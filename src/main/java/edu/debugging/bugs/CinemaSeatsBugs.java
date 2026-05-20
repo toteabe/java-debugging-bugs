@@ -1,17 +1,17 @@
 package edu.debugging.bugs;
 
 /**
- * Programa de práctica de depuración.
+ * Debugging practice program.
  *
- * El programa representa una sala de cine mediante una matriz:
- * - '.' significa asiento libre.
- * - 'X' significa asiento ocupado.
- * - Las filas y columnas se introducen empezando en 1.
- * - La sala tiene 4 filas y 5 columnas.
- * - El programa debe reservar asientos válidos y rechazar reservas fuera de rango.
- * - También debe contar cuántos asientos quedan libres.
+ * The program represents a cinema room using a matrix:
+ * - '.' means a free seat.
+ * - 'X' means an occupied seat.
+ * - Rows and columns are entered starting from 1.
+ * - The room has 4 rows and 5 columns.
+ * - The program must reserve valid seats and reject out-of-range reservations.
+ * - It must also count how many seats remain free.
  *
- * Este programa contiene errores intencionados.
+ * This program contains intentional errors.
  */
 public class CinemaSeatsBugs {
 

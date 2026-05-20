@@ -1,23 +1,23 @@
 package edu.debugging.bugs;
 
 /**
- * Programa de práctica de depuración.
+ * Debugging practice program.
  *
- * El programa debe mostrar un informe de calificaciones:
- * - Nota media.
- * - Nota máxima.
- * - Nota mínima.
- * - Número de aprobados.
- * - Número de sobresalientes.
- * - Si el grupo supera la evaluación global.
+ * The program must display a grade report:
+ * - Average grade.
+ * - Highest grade.
+ * - Lowest grade.
+ * - Number of passed students.
+ * - Number of students with an excellent grade.
+ * - Whether the group passes the global evaluation.
  *
- * Reglas:
- * - Aprueba quien obtiene una nota mayor o igual que 5.
- * - Tiene sobresaliente quien obtiene una nota mayor o igual que 9.
- * - El grupo supera la evaluación global si la media es mayor o igual que 5
- *   y no hay ninguna nota inferior a 4.
+ * Rules:
+ * - A student passes if they get a grade greater than or equal to 5.
+ * - A student gets an excellent grade if they get a grade greater than or equal to 9.
+ * - The group passes the global evaluation if the average grade is greater than or equal to 5
+ *   and there is no grade lower than 4.
  *
- * Este programa contiene errores intencionados.
+ * This program contains intentional errors.
  */
 public class GradesBugs {
 
