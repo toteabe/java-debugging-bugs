@@ -18,10 +18,10 @@ public class BookLoansBugs {
 
     public static void main(String[] args) {
         String[] titles = {
-                "Java Básico",
-                "Bases de Datos",
-                "Programación Web",
-                "Algoritmos"
+                "Basic Java",
+                "Database",
+                "Web Programming",
+                "Algorithm"
         };
 
         int[] daysLate = {0, 3, 7, -1};

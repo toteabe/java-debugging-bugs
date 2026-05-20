@@ -17,7 +17,7 @@ package edu.debugging.bugs;
 public class RaceResultsBugs {
 
     public static void main(String[] args) {
-        String[] runners = {"Ana", "Luis", "Marta", "Pedro", "Lucía"};
+        String[] runners = {"Anna", "Louis", "Martha", "Peter", "Lucy"};
         double[] times = {58.4, 62.1, 55.8, -1.0, 59.9};
 
         printResults(runners, times);
