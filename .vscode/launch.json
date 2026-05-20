@@ -1,0 +1,54 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug GradesBugs",
+      "request": "launch",
+      "mainClass": "edu.debugging.bugs.GradesBugs",
+      "projectName": "java-debugging-bugs"
+    },
+    {
+      "type": "java",
+      "name": "Debug ShoppingCartBugs",
+      "request": "launch",
+      "mainClass": "edu.debugging.bugs.ShoppingCartBugs",
+      "projectName": "java-debugging-bugs"
+    },
+    {
+      "type": "java",
+      "name": "Debug PasswordValidatorBugs",
+      "request": "launch",
+      "mainClass": "edu.debugging.bugs.PasswordValidatorBugs",
+      "projectName": "java-debugging-bugs"
+    },
+    {
+      "type": "java",
+      "name": "Debug CinemaSeatsBugs",
+      "request": "launch",
+      "mainClass": "edu.debugging.bugs.CinemaSeatsBugs",
+      "projectName": "java-debugging-bugs"
+    },
+    {
+      "type": "java",
+      "name": "Debug TemperatureBugs",
+      "request": "launch",
+      "mainClass": "edu.debugging.bugs.TemperatureBugs",
+      "projectName": "java-debugging-bugs"
+    },
+    {
+      "type": "java",
+      "name": "Debug RaceResultsBugs",
+      "request": "launch",
+      "mainClass": "edu.debugging.bugs.RaceResultsBugs",
+      "projectName": "java-debugging-bugs"
+    },
+    {
+      "type": "java",
+      "name": "Debug BookLoansBugs",
+      "request": "launch",
+      "mainClass": "edu.debugging.bugs.BookLoansBugs",
+      "projectName": "java-debugging-bugs"
+    }
+  ]
+}
